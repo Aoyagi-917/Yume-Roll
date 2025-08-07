@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Yume-Roll</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/</link>
+        <description>Recent content on Yume-Roll</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>夢のP</copyright>
+        <lastBuildDate>Tue, 05 Aug 2025 13:06:20 +0800</lastBuildDate><atom:link href="https://Aoyagi-917.github.io/Yume-Roll/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>对上一篇文章的补充</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/p/%E5%AF%B9%E4%B8%8A%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E7%9A%84%E8%A1%A5%E5%85%85/</link>
+        <pubDate>Tue, 05 Aug 2025 13:06:20 +0800</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/p/%E5%AF%B9%E4%B8%8A%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E7%9A%84%E8%A1%A5%E5%85%85/</guid>
+        <description>&lt;p&gt;在Discord中&lt;/p&gt;
+&lt;p&gt;作者Nanashi补充了部分问题的答案&lt;/p&gt;
+&lt;p&gt;现在继续补充&lt;/p&gt;
+&lt;p&gt;1.Chart Cyanvas 上的图表将要永远消失吗？&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;不！我会尽力保留这些图表。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;2.我们是通过 tellonym 还是 Discord 获取我们的私人图表？&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;在 Discord 上，特别是在一个私人线程中，在当前计划中。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;3.Chart Cyanvas 是什么时候制作的？如果这是愚蠢的问题，请原谅&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;趣闻：虽然是在 sekai 三周年之前，但 cyanvas 有自己的痕迹笔记。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;4.你说过你可以提供一个服务，让人们可以通过一些二进制代码来托管自己的 cc 服务器（如果我没记错的话），那这个服务是如何运作的呢？&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Sonolus 服务器本身很简单；它只是一个 HTTP 服务器。&lt;/p&gt;
+&lt;p&gt;我在考虑做一个小型 cc 替代品：&lt;/p&gt;
+&lt;p&gt;转换图表，调整图像大小，重新编码音频&lt;/p&gt;
+&lt;p&gt;允许哪些人可以上传图表&lt;/p&gt;
+&lt;p&gt;GUI&lt;/p&gt;
+&lt;p&gt;不会有&amp;quot;官方&amp;quot;的服务器。&lt;/p&gt;
+&lt;p&gt;至少应该足够用来做同人作品。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;能否下载私密图表？我在那里做了一些小工作：(&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;我会尽力。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;6.非常感谢您多年来一直运行 CC。您制作的程序进行自托管是否有最低规格要求？&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;在 1.0.0 之前，cyanvas 在 Oracle Cloud 的 A1 实例上运行，配备 2 个核心和 12GB 内存。但我认为你应该关注存储问题；我使用了 R2。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;7.你说的&amp;quot;public chart 的 scp&amp;quot;是什么意思？（比如，在这个语境中 scp 是什么意思？）&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;SCP 是 Sonolus Collection Package 的缩写，我记得是这样。&lt;/p&gt;
+&lt;p&gt;简而言之，你可以将图表导入你的 Sonolus。这不应该花那么多钱。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;8.感谢您在这两年里为 Cyanvas 提供主机。这段时间里制图是我的主要爱好，但现在我想是时候继续前行了。问题：一旦您存档这些图表，是否可以下载？&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;假设你在问&amp;quot;我可以在新的存档服务器上使用 usc 吗？&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;回答：取决于设置。我在考虑尊重图表的设置，因为数据库本身并没有丢失。更新：对于那些不允许下载的图表，我会加密 usc。&lt;/p&gt;
+&lt;p&gt;当需要时，我会将密钥发送给我可以信任的人。&amp;quot;&lt;/p&gt;
+&lt;p&gt;9.&lt;/p&gt;
+&lt;p&gt;随着 Chart Cyanvas 的落幕和即将到来的自托管，这个 Discord 服务器能否专门用于上传人们可以下载的图表？也许可以设立一个论坛频道，让人们可以标记和上传图表。由于 Sonolus 上不会有一个官方的 Chart Cyanvas 服务器，我认为仍然能够在 Discord 服务器上分享图表，并有一个统一的上传、分享和游玩他人图表的地方会非常棒。&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;这可能是一种方法，但实际上，我想与 sekai 同人社区保持距离。&lt;/p&gt;
+&lt;p&gt;你们中有些人可能知道：我是 VOICEVOX（一款 TTS 应用，例如你可以让 Zundamon 说话）的维护者之一。我想把更多资源投入其中。&lt;/p&gt;
+&lt;p&gt;所以我认为现在是结束的好时机。对此我感到抱歉。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;10.你为什么要做一个 Tellonym？&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;我认为会有很多问题需要解答，但我不想跑题，所以提出一个。&lt;/p&gt;
+&lt;p&gt;我向 ChatGPT 询问&amp;quot;嘿你能找到 marshmallow-qa.com 的英文对应吗&amp;rdquo;，找到了 Tellonym&amp;quot;&lt;/p&gt;
+&lt;p&gt;总结：向伟大的Nanashi(无名氏)致敬！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>关于PJSK自制谱</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/p/%E5%85%B3%E4%BA%8Epjsk%E8%87%AA%E5%88%B6%E8%B0%B1/</link>
+        <pubDate>Tue, 05 Aug 2025 10:30:20 +0800</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/p/%E5%85%B3%E4%BA%8Epjsk%E8%87%AA%E5%88%B6%E8%B0%B1/</guid>
+        <description>&lt;p&gt;我知道这很难&lt;/p&gt;
+&lt;p&gt;现在我已经制作了两首PJSK自制谱了&lt;/p&gt;
+&lt;p&gt;现在我正在制作死别的Append&lt;/p&gt;
+&lt;p&gt;现在在想办法预览sus文件&lt;/p&gt;
+&lt;p&gt;很难的啊！！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>一些有关于水板的事情</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/p/%E4%B8%80%E4%BA%9B%E6%9C%89%E5%85%B3%E4%BA%8E%E6%B0%B4%E6%9D%BF%E7%9A%84%E4%BA%8B%E6%83%85/</link>
+        <pubDate>Tue, 05 Aug 2025 09:07:15 +0800</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/p/%E4%B8%80%E4%BA%9B%E6%9C%89%E5%85%B3%E4%BA%8E%E6%B0%B4%E6%9D%BF%E7%9A%84%E4%BA%8B%E6%83%85/</guid>
+        <description>&lt;p&gt;*注释:水板为Chart Cyanvas，一个Project Sekai的自制谱服务器，于2025年8月3日停服。&lt;/p&gt;
+&lt;p&gt;Chart Cyanvas的原作者(Nanashi)在昨天的下午5时在Discord发布了停服公告:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Announcing the Sunset of Chart Cyanvas&lt;/p&gt;
+&lt;p&gt;This is an important announcement: @everyone&lt;/p&gt;
+&lt;p&gt;Someone said &amp;ldquo;ETA stands for End-of-Service Tomorrow Announcement.&amp;rdquo; I hoped it was a joke&amp;hellip;&lt;/p&gt;
+&lt;p&gt;As you probably know, Chart Cyanvas faces ton of users right now. Sonolus is incredibly popular right now—it&amp;rsquo;s even ranking up there with Sekai in Japan (lol).&lt;/p&gt;
+&lt;p&gt;That means we&amp;rsquo;re seeing a lot of users. My server has been trying to handle traffic on par with Sekai’s&amp;hellip; and let’s be honest, that’s not something &amp;ldquo;a random person in Nebraska&amp;rdquo; can manage. It’s gotten out of hand.&lt;/p&gt;
+&lt;p&gt;So, I&amp;rsquo;ve made the difficult decision to discontinue Chart Cyanvas. I&amp;rsquo;m truly sorry.&lt;/p&gt;
+&lt;p&gt;But this doesn’t mean the end of the Sekai fanmade community. Here’s what I’m planning going forward:&lt;/p&gt;
+&lt;p&gt;Creating a read-only archive of Chart Cyanvas, like how Potato Leaves works for SweetPotato.&lt;/p&gt;
+&lt;p&gt;Refunds for our supporters.&lt;/p&gt;
+&lt;p&gt;A new Sonolus server project that anyone can easily self-host. I try to fit it in a single .exe file.&lt;/p&gt;
+&lt;p&gt;This isn’t anyone’s fault. It was a sinking ship from the start. Please don’t blame anyone—not Burrito-san, not the chart creators, not anyone.&lt;/p&gt;
+&lt;p&gt;Thank you, everyone, for all your support.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;翻译&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;关于 Chart Cyanvas 的停运公告&lt;/p&gt;
+&lt;p&gt;这是一个重要通知：@所有人&lt;/p&gt;
+&lt;p&gt;有人说「ETA 就是明天终止服务公告（End-of-Service Tomorrow Announcement）的缩写。」我原本以为这只是个玩笑……&lt;/p&gt;
+&lt;p&gt;想必大家也知道，Chart Cyanvas 目前正面临着大量的用户。Sonolus 如今非常受欢迎，甚至在日本的热度已经可以和 Sekai 相提并论（笑）。&lt;/p&gt;
+&lt;p&gt;这也意味着我们遇到了庞大的用户流量。我的服务器一直在尝试处理与 Sekai 同等级别的访问量……说实话，这不是一个「内布拉斯加州某个普通人」能应付得了的。情况已经失控了。&lt;/p&gt;
+&lt;p&gt;因此，我做出了一个艰难的决定：停止运营 Chart Cyanvas。对此我感到非常抱歉。&lt;/p&gt;
+&lt;p&gt;但这也并不意味着 Sekai 同人社区的终结。以下是我接下来的计划：&lt;/p&gt;
+&lt;p&gt;- 建立 Chart Cyanvas 的只读存档，类似 Potato Leaves 对 SweetPotato 的保存方式。&lt;/p&gt;
+&lt;p&gt;- 为支持者提供退款服务。&lt;/p&gt;
+&lt;p&gt;- 推出一个新的 Sonolus 服务器项目，任何人都可以轻松自建。我会尝试将其打包成一个单独的 .exe 文件。&lt;/p&gt;
+&lt;p&gt;这怪不了任何人。从一开始这就是一艘注定下沉的船。请不要责怪任何人——不要怪 Burrito-san，不要怪谱师，不要怪任何无辜的人。&lt;/p&gt;
+&lt;p&gt;感谢大家一直以来的支持。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;在发布这则公告后的6小时后&lt;/p&gt;
+&lt;p&gt;也就是昨天的23时5分&lt;/p&gt;
+&lt;p&gt;宣告自己建立了Tellonym网站&lt;/p&gt;
+&lt;p&gt;用来回答问题&lt;/p&gt;
+&lt;p&gt;以下是这些问题只截取了部分(已经翻译)&lt;/p&gt;
+&lt;p&gt;1.SCP 文件不会是 30GB 或更多，对吧，或者会小一些？&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;它会是：&lt;/p&gt;
+&lt;p&gt;- 图表 #1.scp&lt;/p&gt;
+&lt;p&gt;- 图表 #2.scp&lt;/p&gt;
+&lt;p&gt;- 图表 #3.scp&lt;/p&gt;
+&lt;p&gt;以此类推；每个图表都小于 10 MB&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;2.告诉我&amp;hellip;你单身吗？&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;是的；我只是一个大学生（我现在18岁）&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;3.上传关卡到新服务器（如果存在新服务器）的文件将是什么类型（.usc 或其他类型）？&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;应该是 USC 吧，没有必要改变。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;4.有没有办法测试或玩个人图表？&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;可自托管的服务器会是解决方法，但你可以先用这个：https://github.com/Piliman22/ScoreSync&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;5.你是否考虑过将这个想法提给一家公司，专业地举办 chart cyanvas?&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;没有公司愿意接管一个公然无视版权法的服务(笑)&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;6.所以……我们再也不会得到这种定制图表服务器了？&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;我认为有人可以制作一个，但问题（大量用户）本身并没有解决，因此我想没人会做这件事。没有人愿意每月支付很多美元（例如：8 核+32GB 内存每月约 60 美元，这还不足以处理玩家）&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;彩蛋:&lt;/p&gt;
+&lt;p&gt;在Discord界面中，如果你去翻Chart Cyanvas的停服公告的表情，你会发现有几百个人发送的是mzk五箱的表情包（666糖五还在追）。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>本网站建站进度</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/p/%E6%9C%AC%E7%BD%91%E7%AB%99%E5%BB%BA%E7%AB%99%E8%BF%9B%E5%BA%A6/</link>
+        <pubDate>Tue, 05 Aug 2025 09:05:10 +0800</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/p/%E6%9C%AC%E7%BD%91%E7%AB%99%E5%BB%BA%E7%AB%99%E8%BF%9B%E5%BA%A6/</guid>
+        <description>&lt;p&gt;最近还挺累的&lt;/p&gt;
+&lt;p&gt;也没怎么更新&lt;/p&gt;
+&lt;p&gt;Chart Cyanvas也停了&lt;/p&gt;
+&lt;p&gt;很难受呀&lt;/p&gt;
+&lt;p&gt;现在还在建站中&lt;/p&gt;
+&lt;p&gt;虽然马上就建好了&lt;/p&gt;
+&lt;p&gt;真的很快就建好了&lt;/p&gt;
+&lt;p&gt;预计9月就可以完全使用了&lt;/p&gt;
+&lt;p&gt;新的OC仍然在努力制作&lt;/p&gt;
+&lt;p&gt;预计明年就可以发布&lt;/p&gt;
+&lt;p&gt;这样就皆大欢喜了&lt;/p&gt;
+&lt;p&gt;至于我的小说&lt;/p&gt;
+&lt;p&gt;先将主线任务做完再说吧&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>关于OC角色的Utau音源使用说明(中文)</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/p/%E5%85%B3%E4%BA%8Eoc%E8%A7%92%E8%89%B2%E7%9A%84utau%E9%9F%B3%E6%BA%90%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%96%87/</link>
+        <pubDate>Sun, 03 Aug 2025 17:45:46 +0800</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/p/%E5%85%B3%E4%BA%8Eoc%E8%A7%92%E8%89%B2%E7%9A%84utau%E9%9F%B3%E6%BA%90%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%96%87/</guid>
+        <description>&lt;p&gt;### 一、使用许可范围&lt;/p&gt;
+&lt;p&gt;1. 个人非商业用途：个人非商业用途是指用户仅将音频源用于个人音乐创作、学习和娱乐目的，与任何形式的商业利益无关。包含此音频源的音乐作品不得用于商业广告、企业宣传、电影配乐、游戏配乐等商业场景。音乐作品不得出售、出租或以任何形式用于商业合作。&lt;/p&gt;
+&lt;p&gt;2. 非商业传播要求：当在非商业平台上传播使用此音频源创作的音乐作品时，必须在作品描述中明确说明音频源的名称以及这些使用规则。展示内容应清晰醒目，方便其他用户了解音频源的来源和使用规则。非商业平台包括但不限于个人博客、音乐分享平台（如Piapro、Spotify的免费分享区等）以及社交媒体平台（如Twitter、Nico Nico Douga等）。&lt;/p&gt;
+&lt;p&gt;### 二、禁止行为&lt;/p&gt;
+&lt;p&gt;严禁以任何形式转售或出租此音频源。单独出售音频源文件或作为音乐作品的一部分出售，均属于违反这些规定的行为。若发现用户从事商业销售或租赁活动，作者有权追究法律责任并要求赔偿相应的经济损失。&lt;/p&gt;
+&lt;p&gt;对此音频源进行修改、混音或重新创作等操作后，不得进行商业发布。若有非商业修改和重新发布的必要，必须事先获得作者的书面许可。用户可通过作者提供的联系方式向作者提交修改和重新发布的申请，并说明修改的内容和目的。作者将根据具体情况进行审核并给予回复。&lt;/p&gt;
+&lt;p&gt;禁止使用此音频源创作包含违法、色情、暴力、歧视、诽谤等有害内容的音乐作品。用户有责任确保使用此音频源创作的音乐作品符合法律法规和社会道德规范。若发现用户创作的音乐作品包含有害内容，作者有权要求用户立即停止传播并删除相关作品。情节严重的，作者将追究法律责任。&lt;/p&gt;
+&lt;p&gt;### 三、版权归属&lt;/p&gt;
+&lt;p&gt;此音频源的所有版权归作者所有。用户在本规定所定义的范围内享有一定的使用权，但不拥有音频源的所有权。用户不得将音频源的版权转让给第三方，也不得从事任何侵犯音频源版权的行为。&lt;/p&gt;
+&lt;p&gt;### 四、责任声明&lt;/p&gt;
+&lt;p&gt;用户必须承担因使用此音频源而产生的所有法律责任。若用户违反本规定的条款并给作者造成损害，用户必须承担相应的赔偿责任，包括但不限于经济损失和名誉损失。在使用音频源时，用户必须遵守法律法规以及这些使用规定的条款，以确保使用行为的合法性和合规性。作者对用户使用此音频源所造成的任何直接或间接损失不承担责任，包括但不限于因音乐作品发布引发的纠纷、侵权指控以及经济损失。用户在使用音频源前必须充分了解相关风险并自行承担相应后果。&lt;/p&gt;
+&lt;p&gt;### 五、规定的修订与通知&lt;/p&gt;
+&lt;p&gt;作者有权根据实际情况调整和修订这些使用规定。调整的理由可能包括法律法规的变化、市场需求的变化、用户反馈等。&lt;/p&gt;
+&lt;p&gt;修订发布：修订后的规定将通过作者个人网站和社交媒体账号等官方渠道发布。用户有义务定期关注官方渠道的信息，了解规定的更新情况。若规定修订后用户继续使用此音频源，则视为用户同意接受修订后的规定。若用户不同意修订后的规定，应停止使用此音频源。&lt;/p&gt;
+&lt;p&gt;### 六、联系方式&lt;/p&gt;
+&lt;p&gt;沟通渠道：若用户对这些使用规定有任何疑问或建议，可通过作者提供的具体联系方式与作者沟通。作者将及时回复用户的咨询并处理相关问题。&lt;/p&gt;
+&lt;p&gt;### 七、版权&lt;/p&gt;
+&lt;p&gt;連音アコUtau音库© 夢のP 2026 All Rights Reserved.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Instructions for Using the Utau Sound Source of OC Characters (English)</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/p/instructions-for-using-the-utau-sound-source-of-oc-characters-english/</link>
+        <pubDate>Sun, 03 Aug 2025 17:45:29 +0800</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/p/instructions-for-using-the-utau-sound-source-of-oc-characters-english/</guid>
+        <description>&lt;p&gt;### I. Scope of Use Permission&lt;/p&gt;
+&lt;p&gt;1. Personal Non - commercial Use: Personal non - commercial use means that the user uses the audio source only for personal music creation, learning, and entertainment purposes, and it is not related to any form of commercial benefit. Music works containing this audio source shall not be used in business scenarios such as commercials, corporate promotions, movie soundtracks, game soundtracks, etc. The music works shall not be sold, rented, or used in any form of business collaboration.&lt;/p&gt;
+&lt;p&gt;2. Non - commercial Distribution Requirements: When distributing music works created using this audio source on non - commercial platforms, the name of the audio source and these usage regulations must be clearly stated in the work description. The display content should be clear and eye - catching, facilitating other users to understand the origin and usage rules of the audio source. Non - business platforms include, but are not limited to, personal blogs, music sharing platforms (such as the free sharing areas of Piapro, Spotify, etc.), and social media platforms (such as Twitter, Nico Nico Douga, etc.).&lt;/p&gt;
+&lt;p&gt;### II. Prohibited Acts&lt;/p&gt;
+&lt;p&gt;Reselling or renting this audio source in any form is strictly prohibited. Selling the audio source file alone or selling it as part of a music work is an act that violates these regulations. If it is found that the user is engaged in commercial sales or rental activities, the author has the right to pursue legal liability and demand compensation for corresponding economic losses.&lt;/p&gt;
+&lt;p&gt;After operations such as modifying, mixing, or re - creating this audio source, it cannot be commercially released. If non - commercial modification and re - release are necessary, prior written permission from the author must be obtained. The user can submit an application for modification and re - release to the author through the contact information provided by the author, and explain the content and purpose of the modification. The author will conduct a review according to the specific situation and provide a response.&lt;/p&gt;
+&lt;p&gt;Creation of music works containing illegal, pornographic, violent, discriminatory, slanderous, and other harmful content using this audio source is prohibited. The user is responsible for ensuring that the music works created using this audio source comply with laws, regulations, and social moral norms. If it is found that the music works created by the user contain harmful content, the author has the right to demand that the user immediately stop distribution and delete the relevant works. In serious cases, the author will pursue legal liability.&lt;/p&gt;
+&lt;p&gt;### III. Ownership of Copyright&lt;/p&gt;
+&lt;p&gt;All copyrights of this audio source belong to the author. The user enjoys a certain right to use within the scope defined by these regulations and does not own the ownership of the audio source. The user shall not transfer the copyright of the audio source to a third party, nor shall the user engage in any act of infringing the copyright of the audio source.&lt;/p&gt;
+&lt;p&gt;### IV. Liability Statement&lt;/p&gt;
+&lt;p&gt;The user must bear all legal responsibilities arising from the use of this audio source. If the user violates the provisions of these regulations and causes damage to the author, the user must bear corresponding compensation responsibilities, including but not limited to economic losses and reputation losses. When using the audio source, the user must comply with laws, regulations, and the provisions of these usage regulations to ensure the legality and compliance of the use behavior. The author shall not be liable for any direct or indirect losses caused by the user&amp;rsquo;s use of this audio source, including but not limited to disputes arising from the publication of music works, accusations of rights infringement, and economic losses. The user must fully understand the relevant risks before using the audio source and bear the corresponding consequences on their own.&lt;/p&gt;
+&lt;p&gt;### V. Amendment and Notification of Regulations&lt;/p&gt;
+&lt;p&gt;The author has the right to adjust and amend these usage regulations based on the actual situation. The grounds for adjustment may include changes in laws and regulations, changes in market needs, user feedback, etc.&lt;/p&gt;
+&lt;p&gt;Publication of Amendments: The amended regulations will be published through official channels such as the author&amp;rsquo;s personal website and social media accounts. Users are obliged to pay regular attention to the information on official channels and be aware of the update status of the regulations. If the user continues to use this audio source after the regulations are amended, it is deemed that the user has agreed to accept the amended regulations. If the user does not agree with the amended regulations, the use of this audio source should be discontinued.&lt;/p&gt;
+&lt;p&gt;### VI. Contact Information&lt;/p&gt;
+&lt;p&gt;Communication Channel: If the user has any questions or suggestions regarding these usage regulations, they can communicate with the author through the specific contact methods provided by the author. The author will promptly reply to the user&amp;rsquo;s inquiries and handle the relevant issues.&lt;/p&gt;
+&lt;p&gt;### VII. Copyright&lt;/p&gt;
+&lt;p&gt;Renne Aco Voice Audio Source © 夢のP  2026 All Rights Reserved.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>OCキャラクターのUTAU音源使用説明（日本語）</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/p/oc%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AEutau%E9%9F%B3%E6%BA%90%E4%BD%BF%E7%94%A8%E8%AA%AC%E6%98%8E%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
+        <pubDate>Sun, 03 Aug 2025 17:39:47 +0800</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/p/oc%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AEutau%E9%9F%B3%E6%BA%90%E4%BD%BF%E7%94%A8%E8%AA%AC%E6%98%8E%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+        <description>&lt;p&gt;###一、使用許可範囲&lt;/p&gt;
+&lt;p&gt;1.個人非商業用途：個人非商業用途とは、使用者が音源を個人の音楽創作、学習、娯楽目的にのみ使用することを意味し、いかなる形式の商業利益にも関連しない。この音源を含む音楽作品をコマーシャル、企業宣伝、映画サウンド、ゲームサウンドなどのビジネスシーンに使用してはならず、音楽作品を販売、レンタル、またはいかなる形式のビジネスコラボレーションにも使用してはならない。&lt;/p&gt;
+&lt;p&gt;2.非商用配信要求：非商用プラットフォーム上で本音源を用いて創作された音楽作品を配信する際には、その音源の名称及び本使用条例を作品記述に明記しなければならない。表示内容ははっきりしていて、目を覚まして、他のユーザーが音源の出所と使用規則を理解するのに便利です。非ビジネスプラットフォームには、個人ブログ、音楽共有プラットフォーム（Piapro、Spotifyなどの無料共有エリア）、ソーシャルメディアプラットフォーム（Twitter、ニコニコ動画など）が含まれますが、これらに限定されません。&lt;/p&gt;
+&lt;p&gt;###二、禁止行為&lt;/p&gt;
+&lt;p&gt;この音源をいかなる形でも二次販売やレンタルすることは厳禁です。音源ファイルを単独で販売することも、音源を音楽作品に含めて販売することも、本条例に違反する行為である。利用者が商業販売や賃貸行為を行っていることが分かった場合、著者は法的責任を追及し、相応の経済的損失を賠償するよう求める権利がある。&lt;/p&gt;
+&lt;p&gt;本音源の修正、ミキシング、再作成などの操作を行った後に商業的にリリースすることはできません。非商業的な修正と再発行が必要な場合は、事前に著者の書面許可を得なければならない。使用者は、著者が提供する連絡先を通じて、著者に修正と再発行の申請を提出し、修正の内容と目的を説明することができる。著者は具体的な状況に応じて審査を行い、回答を与える。&lt;/p&gt;
+&lt;p&gt;本音源を用いた違法、ポルノ、暴力、差別、誹謗などの不良コンテンツを含む音楽作品の創作を禁止する。使用者は、本音源を用いて創作された音楽作品が法律法規と社会道徳規範に適合することを確保する責任がある。使用者が創作した音楽作品に不良内容が含まれていることが分かった場合、著者は使用者に直ちに配布を中止し、関連作品を削除するよう要求する権利がある。ストーリーが深刻な場合、著者はその法的責任を追及する。&lt;/p&gt;
+&lt;p&gt;###三、著作権の帰属&lt;/p&gt;
+&lt;p&gt;本音源のすべての著作権は著者の所有である。使用者は、本条例で定められた範囲内に限りある使用権を享有し、音源の所有権を所有しない。使用者は音源の著作権を第三者に譲渡してはならず、音源に著作権を侵害する行為をしてはならない。&lt;/p&gt;
+&lt;p&gt;###四、責任声明&lt;/p&gt;
+&lt;p&gt;使用者は、本音源の使用によるすべての法的責任を自ら負う必要がある。使用者が本条例の規定に違反して著者が損害を受けた場合、使用者は経済的損失、名誉損失などを含むがこれらに限らない相応の賠償責任を負わなければならない。使用者は音源を使用する際に、法律法規と本使用条例の規定を遵守し、使用行為の合法性とコンプライアンスを確保しなければならない。著者は使用者が本音源を使用したことによるいかなる直接的または間接的な損失にも責任を負わず、音楽作品の発表による紛争、権利侵害の告発、経済的損失などを含むが、これらに限定されない。使用者は音源を使用する前に関連するリスクを十分に理解し、自分で相応の結果を負担しなければならない。&lt;/p&gt;
+&lt;p&gt;###五、条例の変更と通知&lt;/p&gt;
+&lt;p&gt;著者は実際の状況に基づいて本使用条例を調整し、変更する権利がある。調整の根拠には、法律法規の変化、市場ニーズの変化、ユーザーのフィードバックなどが含まれる可能性があります。&lt;/p&gt;
+&lt;p&gt;変更公布：変更後の条例は、著者の個人サイト、ソーシャルメディアアカウントなど、公式ルートで公布される。利用者は定期的に公式ルートの情報に注目し、条例の更新状況を知る義務がある。使用者が条例変更後も本音源を使用し続けると、変更後の条例を受け入れることに同意したとみなす。使用者が変更後の条例に同意しない場合は、本音源の使用を中止すべきである。&lt;/p&gt;
+&lt;p&gt;###六、連絡先&lt;/p&gt;
+&lt;p&gt;コミュニケーションルート：使用者が本使用条例に対していかなる疑問や提案があれば、著者が提供する具体的な連絡方法を通じて著者とコミュニケーションすることができる。著者はすぐに利用者の問い合わせに返信し、関連する問題を処理します。&lt;/p&gt;
+&lt;p&gt;###七.著作権&lt;/p&gt;
+&lt;p&gt;連音アコ音声ソース© 夢のP 2026 All Rights Reserved.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>前言</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/p/%E5%89%8D%E8%A8%80/</link>
+        <pubDate>Sun, 03 Aug 2025 15:26:40 +0800</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/p/%E5%89%8D%E8%A8%80/</guid>
+        <description>&lt;p&gt;你好!!!&lt;/p&gt;
+&lt;p&gt;这里是夢のP！！&lt;/p&gt;
+&lt;p&gt;一个对Vocaloid以及Project Sekai充满信心的初一UP主！！&lt;/p&gt;
+&lt;p&gt;bilibili主页面:&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/2009700599?spm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://space.bilibili.com/2009700599?spm&lt;/a&gt;_id_from=333.1369.0.0&lt;/p&gt;
+&lt;p&gt;邮箱：&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:Mikukumi3993@163.com&#34; &gt;Mikukumi3993@163.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;##目标是：&lt;/p&gt;
+&lt;p&gt;1.想成为一名拥有很多粉丝的UP主！！&lt;/p&gt;
+&lt;p&gt;2.尽可能多发一些视频！！&lt;/p&gt;
+&lt;p&gt;3.自己写的小说（现在仍在私密状态）有一天能大火！！&lt;/p&gt;
+&lt;p&gt;现在大部分视频仍处在私密状态，所有部分视频内容将会发布在这个网站&lt;/p&gt;
+&lt;p&gt;请多多支持哟！！！&lt;/p&gt;
+&lt;p&gt;##本网站的主要介绍:&lt;/p&gt;
+&lt;p&gt;本网站用来分享生活，发布Demo曲，上传新的vsqx或ust，上传OC等，还会有更多内容&lt;/p&gt;
+&lt;p&gt;COMING SOON……&lt;/p&gt;
+&lt;p&gt;感谢大家支持我哇哇哇&lt;/p&gt;
+&lt;p&gt;我会努力的!!!&lt;/p&gt;
+&lt;p&gt;请不要随意发邮箱以使UP工作量剧增&lt;/p&gt;
+&lt;p&gt;感谢支持&lt;/p&gt;
+&lt;p&gt;谢谢谢谢！！！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>档案</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友链</title>
+        <link>https://Aoyagi-917.github.io/Yume-Roll/%E5%8F%8B%E9%93%BE/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Aoyagi-917.github.io/Yume-Roll/%E5%8F%8B%E9%93%BE/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
